@@ -3,7 +3,7 @@
 The EdgarGPT project uses OpenAI language models to create a chatbot that was trained on information about myself. The chatbot answers questions based on my CV, my personal website, and PDFs that are available on my website.
 
 
-# Methodology
+## Methodology
 
 The chatbot measures the relatedness of presented text based on the numerical representation of trained text. Thus, it will answer questions about myself based on the most similar context from the learned input. More precisely, it sends received questions about my person to the OpenAI completions API endpoint to create an answer to the user. 
 
