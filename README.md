@@ -15,8 +15,6 @@ The chatbot is deployed on HuggingFace and embedded on my personal website. Furt
 Go to my website <https://edgar-treischl.de/project/> to visit the deployed app.
 
 
-## Results
-
 ## Limitations
 
 EdgarGPT has limited information and only illustrates how language models can be exploit as personal assistant. In addition, EdgarGPT is freely available but the services from OpenAI are not free of charge, which is why EdgarGPT throws an error if the OpenAI limit has been reached. 
